@@ -1,0 +1,298 @@
+
+2022-02-24 16:11:34,256 [1] [INFO ] [GameServer] ：Game Server Init
+2022-02-24 16:11:34,520 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-02-24 16:11:34,635 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:11:34,635 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:11:34,636 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:11:34,636 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:11:34,636 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:11:34,654 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:11:34,654 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:11:34,654 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:11:34,680 [1] [WARN ] [GameServer] ：NetService Started
+2022-02-24 16:11:44,272 [3] [WARN ] [GameServer] ：Client[127.0.0.1:12230]] Connected
+2022-02-24 16:11:44,416 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-02-24 16:12:17,254 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-02-24 16:12:22,876 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-02-24 16:12:58,307 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-02-24 16:29:42,726 [1] [INFO ] [GameServer] ：Game Server Init
+2022-02-24 16:29:42,836 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-02-24 16:29:43,069 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:29:43,069 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:29:43,069 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:29:43,069 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:29:43,069 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:29:43,070 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:29:43,069 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:29:43,069 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:29:43,182 [1] [WARN ] [GameServer] ：NetService Started
+2022-02-24 16:29:46,891 [3] [WARN ] [GameServer] ：Client[127.0.0.1:12469]] Connected
+2022-02-24 16:29:46,902 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-02-24 16:42:01,108 [1] [INFO ] [GameServer] ：Game Server Init
+2022-02-24 16:42:01,267 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-02-24 16:42:01,435 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:42:01,435 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:42:01,436 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:42:01,435 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:42:01,439 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:42:01,441 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:42:01,436 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:42:01,446 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:42:01,548 [1] [WARN ] [GameServer] ：NetService Started
+2022-02-24 16:42:03,441 [3] [WARN ] [GameServer] ：Client[127.0.0.1:12714]] Connected
+2022-02-24 16:42:03,446 [13] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-02-24 16:42:17,092 [1] [INFO ] [GameServer] ：Game Server Init
+2022-02-24 16:42:17,186 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-02-24 16:42:17,258 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:42:17,259 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:42:17,259 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:42:17,259 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:42:17,259 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:42:17,259 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:42:17,260 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:42:17,260 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 16:42:17,331 [1] [WARN ] [GameServer] ：NetService Started
+2022-02-24 16:42:18,772 [3] [WARN ] [GameServer] ：Client[127.0.0.1:12718]] Connected
+2022-02-24 16:42:18,779 [14] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-02-24 16:42:21,304 [14] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-02-24 16:57:05,137 [14] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-02-24 17:02:02,488 [1] [INFO ] [GameServer] ：Game Server Init
+2022-02-24 17:02:02,558 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-02-24 17:02:02,629 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:02:02,629 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:02:02,629 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:02:02,629 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:02:02,629 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:02:02,629 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:02:02,629 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:02:02,630 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:02:02,674 [1] [WARN ] [GameServer] ：NetService Started
+2022-02-24 17:02:03,061 [3] [WARN ] [GameServer] ：Client[127.0.0.1:12982]] Connected
+2022-02-24 17:02:03,071 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-02-24 17:07:51,407 [1] [INFO ] [GameServer] ：Game Server Init
+2022-02-24 17:07:51,517 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-02-24 17:07:51,582 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:07:51,582 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:07:51,582 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:07:51,582 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:07:51,583 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:07:51,583 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:07:51,583 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:07:51,584 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:07:51,637 [1] [WARN ] [GameServer] ：NetService Started
+2022-02-24 17:07:54,561 [3] [WARN ] [GameServer] ：Client[127.0.0.1:13055]] Connected
+2022-02-24 17:07:54,565 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-02-24 17:25:24,473 [1] [INFO ] [GameServer] ：Game Server Init
+2022-02-24 17:25:24,636 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-02-24 17:25:24,752 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:25:24,752 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:25:24,752 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:25:24,752 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:25:24,754 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:25:24,754 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:25:24,760 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:25:24,789 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:25:24,907 [1] [WARN ] [GameServer] ：NetService Started
+2022-02-24 17:25:27,036 [3] [WARN ] [GameServer] ：Client[127.0.0.1:13473]] Connected
+2022-02-24 17:25:27,041 [14] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-02-24 17:42:42,647 [1] [INFO ] [GameServer] ：Game Server Init
+2022-02-24 17:42:42,802 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-02-24 17:42:42,861 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:42:42,861 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:42:42,861 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:42:42,861 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:42:42,861 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:42:42,862 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:42:42,862 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:42:42,867 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:42:42,915 [1] [WARN ] [GameServer] ：NetService Started
+2022-02-24 17:42:44,431 [3] [WARN ] [GameServer] ：Client[127.0.0.1:13776]] Connected
+2022-02-24 17:42:44,437 [14] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-02-24 17:42:50,602 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:1  Pass:1
+2022-02-24 17:42:50,665 [5] [ERROR] [GameServer] ：Message handler exception:, 未将对象引用设置到对象的实例。, MMORPGServer,    在 Service.RegisterService.OnRegister(NetConnection`1 conn, UserRegisterRequest request) 位置 D:\unity\projects\mmorpg\Server\MMORPGServer\MMORPGServer\Service\RegisterService.cs:行号 25
+   在 Net.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\unity\projects\mmorpg\Server\MMORPGServer\MMORPGServer\Net\MessageDistributer.cs:行号 96
+2022-02-24 17:59:25,418 [1] [INFO ] [GameServer] ：Game Server Init
+2022-02-24 17:59:25,997 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-02-24 17:59:26,066 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:59:26,066 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:59:26,066 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:59:26,067 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:59:26,067 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:59:26,105 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:59:26,105 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:59:26,067 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 17:59:26,118 [1] [WARN ] [GameServer] ：NetService Started
+2022-02-24 17:59:30,058 [3] [WARN ] [GameServer] ：Client[127.0.0.1:14010]] Connected
+2022-02-24 17:59:30,064 [14] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-02-24 17:59:36,483 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:1  Pass:1
+2022-02-24 17:59:36,601 [5] [ERROR] [GameServer] ：Message handler exception:, No connection string named 'Model1Container' could be found in the application config file., EntityFramework,    在 System.Data.Entity.Internal.LazyInternalConnection.get_ConnectionHasModel()
+   在 System.Data.Entity.Internal.LazyInternalContext.InitializeContext()
+   在 System.Data.Entity.Internal.InternalContext.Initialize()
+   在 System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   在 System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   在 System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   在 Service.RegisterService.OnRegister(NetConnection`1 conn, UserRegisterRequest request) 位置 D:\unity\projects\mmorpg\Server\MMORPGServer\MMORPGServer\Service\RegisterService.cs:行号 24
+   在 Net.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\unity\projects\mmorpg\Server\MMORPGServer\MMORPGServer\Net\MessageDistributer.cs:行号 96
+2022-02-24 18:02:58,783 [14] [WARN ] [GameServer] ：Client[] Disconnected
+2022-02-24 18:20:39,981 [1] [INFO ] [GameServer] ：Game Server Init
+2022-02-24 18:20:40,305 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-02-24 18:20:40,325 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 18:20:40,326 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 18:20:40,326 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 18:20:40,337 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 18:20:40,339 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 18:20:40,340 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 18:20:40,342 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 18:20:40,342 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 18:20:40,440 [1] [WARN ] [GameServer] ：NetService Started
+2022-02-24 18:20:52,152 [3] [WARN ] [GameServer] ：Client[127.0.0.1:14384]] Connected
+2022-02-24 18:20:52,285 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-02-24 18:20:52,413 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:1  Pass:1
+2022-02-24 18:20:52,518 [5] [ERROR] [GameServer] ：Message handler exception:, No connection string named 'Model1Container' could be found in the application config file., EntityFramework,    在 System.Data.Entity.Internal.LazyInternalConnection.get_ConnectionHasModel()
+   在 System.Data.Entity.Internal.LazyInternalContext.InitializeContext()
+   在 System.Data.Entity.Internal.InternalContext.Initialize()
+   在 System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   在 System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   在 System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   在 Service.RegisterService.OnRegister(NetConnection`1 conn, UserRegisterRequest request) 位置 D:\unity\projects\mmorpg\Server\MMORPGServer\MMORPGServer\Service\RegisterService.cs:行号 24
+   在 Net.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\unity\projects\mmorpg\Server\MMORPGServer\MMORPGServer\Net\MessageDistributer.cs:行号 96
+2022-02-24 18:52:59,154 [1] [INFO ] [GameServer] ：Game Server Init
+2022-02-24 18:52:59,574 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-02-24 18:52:59,592 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 18:52:59,596 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 18:52:59,596 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 18:52:59,596 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 18:52:59,596 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 18:52:59,596 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 18:52:59,597 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 18:52:59,598 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 18:52:59,688 [1] [WARN ] [GameServer] ：NetService Started
+2022-02-24 18:53:09,504 [3] [WARN ] [GameServer] ：Client[127.0.0.1:1114]] Connected
+2022-02-24 18:53:09,639 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-02-24 18:53:09,760 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:1  Pass:1
+2022-02-24 18:53:20,406 [5] [ERROR] [GameServer] ：Message handler exception:, The context is being used in Code First mode with code that was generated from an EDMX file for either Database First or Model First development.  This will not work correctly. To fix this problem do not remove the line of code that throws this exception. If you wish to use Database First or Model First, then make sure that the Entity Framework connection string is included in the app.config or web.config of the start-up project. If you are creating your own DbConnection, then make sure that it is an EntityConnection and not some other type of DbConnection, and that you pass it to one of the base DbContext constructors that take a DbConnection. To learn more about Code First, Database First, and Model First see the Entity Framework documentation here: http://go.microsoft.com/fwlink/?LinkId=394715, MMORPGServer,    在 MMORPGServer.Entity.DBConnection.OnModelCreating(DbModelBuilder modelBuilder) 位置 D:\unity\projects\mmorpg\Server\MMORPGServer\MMORPGServer\Entity\Entity.Context.cs:行号 25
+   在 System.Data.Entity.Internal.LazyInternalContext.CreateModelBuilder()
+   在 System.Data.Entity.Internal.LazyInternalContext.CreateModel(LazyInternalContext internalContext)
+   在 System.Data.Entity.Internal.RetryLazy`2.GetValue(TInput input)
+   在 System.Data.Entity.Internal.LazyInternalContext.InitializeContext()
+   在 System.Data.Entity.Internal.InternalContext.Initialize()
+   在 System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   在 System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   在 System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   在 Service.RegisterService.OnRegister(NetConnection`1 conn, UserRegisterRequest request) 位置 D:\unity\projects\mmorpg\Server\MMORPGServer\MMORPGServer\Service\RegisterService.cs:行号 24
+   在 Net.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\unity\projects\mmorpg\Server\MMORPGServer\MMORPGServer\Net\MessageDistributer.cs:行号 96
+2022-02-24 20:09:16,291 [1] [INFO ] [GameServer] ：Game Server Init
+2022-02-24 20:09:16,681 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-02-24 20:09:16,724 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 20:09:16,724 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 20:09:16,724 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 20:09:16,724 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 20:09:16,724 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 20:09:16,726 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 20:09:16,728 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 20:09:16,728 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 20:09:16,800 [1] [WARN ] [GameServer] ：NetService Started
+2022-02-24 20:09:40,690 [3] [WARN ] [GameServer] ：Client[127.0.0.1:2908]] Connected
+2022-02-24 20:09:40,835 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-02-24 20:09:40,975 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:1  Pass:1
+2022-02-24 20:09:41,730 [5] [ERROR] [GameServer] ：Message handler exception:, The entity type TUser is not part of the model for the current context., EntityFramework,    在 System.Data.Entity.Internal.InternalContext.UpdateEntitySetMappingsForType(Type entityType)
+   在 System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   在 System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   在 System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   在 Service.RegisterService.OnRegister(NetConnection`1 conn, UserRegisterRequest request) 位置 D:\unity\projects\mmorpg\Server\MMORPGServer\MMORPGServer\Service\RegisterService.cs:行号 24
+   在 Net.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\unity\projects\mmorpg\Server\MMORPGServer\MMORPGServer\Net\MessageDistributer.cs:行号 96
+2022-02-24 20:12:17,307 [1] [INFO ] [GameServer] ：Game Server Init
+2022-02-24 20:12:17,703 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-02-24 20:12:17,749 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 20:12:17,749 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 20:12:17,749 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 20:12:17,749 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 20:12:17,777 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 20:12:17,778 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 20:12:17,778 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 20:12:17,778 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 20:12:17,850 [1] [WARN ] [GameServer] ：NetService Started
+2022-02-24 20:12:27,081 [3] [WARN ] [GameServer] ：Client[127.0.0.1:2950]] Connected
+2022-02-24 20:12:27,216 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-02-24 20:12:27,340 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:1  Pass:1
+2022-02-24 20:12:42,091 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-02-24 20:12:42,092 [6] [INFO ] [GameServer] ：UserRegisterRequest: User:1  Pass:1
+2022-02-24 20:13:21,187 [3] [WARN ] [GameServer] ：Client[] Disconnected
+2022-02-24 20:22:42,270 [3] [WARN ] [GameServer] ：Client[127.0.0.1:3046]] Connected
+2022-02-24 20:22:42,461 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-02-24 20:22:42,461 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:1  Pass:1
+2022-02-24 20:23:19,223 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-02-24 20:23:19,224 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:1  Pass:2
+2022-02-24 20:23:21,313 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-02-24 20:23:21,317 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:2  Pass:2
+2022-02-24 20:23:21,365 [5] [ERROR] [GameServer] ：Message handler exception:System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Duplicate entry '0' for key 'tuser.PRIMARY'
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 MySql.Data.EntityFramework.EFMySqlCommand.ExecuteNonQuery()
+   在 System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.<>c.<NonQuery>b__4_0(DbCommand t, DbCommandInterceptionContext`1 c)
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.NonQuery(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   在 System.Data.Entity.Internal.InterceptableDbCommand.ExecuteNonQuery()
+   在 System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   在 System.Data.Entity.Core.EntityClient.Internal.EntityAdapter.<>c.<Update>b__21_0(UpdateTranslator ut)
+   在 System.Data.Entity.Core.EntityClient.Internal.EntityAdapter.Update[T](T noChangesResult, Func`2 updateFunction)
+   在 System.Data.Entity.Core.EntityClient.Internal.EntityAdapter.Update()
+   在 System.Data.Entity.Core.Objects.ObjectContext.<SaveChangesToStore>b__153_0()
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   在 System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass148_0.<SaveChangesInternal>b__0()
+   在 System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges(), An error occurred while updating the entries. See the inner exception for details., EntityFramework,    在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   在 System.Data.Entity.DbContext.SaveChanges()
+   在 Service.RegisterService.OnRegister(NetConnection`1 conn, UserRegisterRequest request) 位置 D:\unity\projects\mmorpg\Server\MMORPGServer\MMORPGServer\Service\RegisterService.cs:行号 34
+   在 Net.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\unity\projects\mmorpg\Server\MMORPGServer\MMORPGServer\Net\MessageDistributer.cs:行号 96
+2022-02-24 20:30:43,775 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-02-24 20:30:43,776 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:2  Pass:2
+2022-02-24 20:30:43,864 [5] [ERROR] [GameServer] ：Message handler exception:System.InvalidOperationException: Saving or accepting changes failed because more than one entity of type 'MMORPGServer.Entity.tuser' have the same primary key value. Ensure that explicitly set primary key values are unique. Ensure that database-generated primary keys are configured correctly in the database and in the Entity Framework model. Use the Entity Designer for Database First/Model First configuration. Use the 'HasDatabaseGeneratedOption" fluent API or 'DatabaseGeneratedAttribute' for Code First configuration.
+   在 System.Data.Entity.Core.Objects.ObjectStateManager.FixupKey(EntityEntry entry)
+   在 System.Data.Entity.Core.Objects.EntityEntry.AcceptChanges()
+   在 System.Data.Entity.Core.Objects.ObjectContext.AcceptAllChanges()
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction), The changes to the database were committed successfully, but an error occurred while updating the object context. The ObjectContext might be in an inconsistent state. Inner exception message: Saving or accepting changes failed because more than one entity of type 'MMORPGServer.Entity.tuser' have the same primary key value. Ensure that explicitly set primary key values are unique. Ensure that database-generated primary keys are configured correctly in the database and in the Entity Framework model. Use the Entity Designer for Database First/Model First configuration. Use the 'HasDatabaseGeneratedOption" fluent API or 'DatabaseGeneratedAttribute' for Code First configuration., EntityFramework,    在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   在 System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass148_0.<SaveChangesInternal>b__0()
+   在 System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   在 System.Data.Entity.DbContext.SaveChanges()
+   在 Service.RegisterService.OnRegister(NetConnection`1 conn, UserRegisterRequest request) 位置 D:\unity\projects\mmorpg\Server\MMORPGServer\MMORPGServer\Service\RegisterService.cs:行号 34
+   在 Net.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\unity\projects\mmorpg\Server\MMORPGServer\MMORPGServer\Net\MessageDistributer.cs:行号 96
+2022-02-24 20:32:15,320 [1] [INFO ] [GameServer] ：Game Server Init
+2022-02-24 20:32:15,792 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-02-24 20:32:15,820 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 20:32:15,828 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 20:32:15,828 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 20:32:15,828 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 20:32:15,831 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 20:32:15,831 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 20:32:15,831 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 20:32:15,834 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-02-24 20:32:15,912 [1] [WARN ] [GameServer] ：NetService Started
+2022-02-24 20:33:33,469 [3] [WARN ] [GameServer] ：Client[127.0.0.1:3145]] Connected
+2022-02-24 20:33:33,584 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-02-24 20:33:33,692 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:3  Pass:3
+2022-02-24 20:33:43,479 [3] [WARN ] [GameServer] ：Client[] Disconnected
